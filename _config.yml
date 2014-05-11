@@ -23,7 +23,7 @@ nav:
   - text: 联系我
     url: 
   - text: 博客源代码
-    url: https://github.com/hkustzzy/hkustzzy.github.io
+    url: https://github.com/hkustzzy/hkustzzy.github.
 
 #theme config
 themes: /themes/violet
@@ -38,25 +38,25 @@ headimg:
 #关注我
 follow:
   - class: fa-google-plus
-    url: http://www.zhanxin.info
+    url: 
   - class: fa-facebook
-    url: http://www.zhanxin.info
+    url: 
   - class: fa-github
-    url: http://github.com/pizn
+    url: http://github.com/hkustzzy
   - class: fa-weibo
-    url: http://weibo.com/pizner
+    url: 
   - class: fa-renren
-    url: http://www.zhanxin.info
+    url: 
   - class: fa-pinterest
-    url: http://www.zhanxin.info
+    url: 
   - class: fa-twitter
-    url: http://www.zhanxin.info
+    url: 
   - class: fa-rss
-    url: http://www.zhanxin.info
+    url: 
 
 #作者信息
 author:
-  link: http://www.zhanxin.info/contact.html
+  link: 
   img: http://tp2.sinaimg.cn/1832671293/180/40020872447/1
 
 #评论信息
