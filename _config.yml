@@ -23,7 +23,7 @@ nav:
   - text: 联系我
     url: 
   - text: 博客源代码
-    url: https://github.com/hkustzzy/hkustzzy.github.com
+    url: https://github.com/hkustzzy/hkustzzy.github.io
 
 #theme config
 themes: /themes/violet
