@@ -19,11 +19,11 @@ nav:
   - text: 文章归档
     url: /archives.html
   - text: 作品
-    url: /works.html
-  - text: 联系我
     url: 
+  - text: 联系我
+    url: /contact.html
   - text: 博客源代码
-    url: https://github.com/hkustzzy/hkustzzy.github.
+    url: https://github.com/hkustzzy/hkustzzy.github.io
 
 #theme config
 themes: /themes/violet
